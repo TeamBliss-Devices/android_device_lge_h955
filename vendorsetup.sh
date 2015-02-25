@@ -1,1 +1,1 @@
-add_lunch_combo cm_h955-userdebug
+add_lunch_combo bliss_h955-userdebug
