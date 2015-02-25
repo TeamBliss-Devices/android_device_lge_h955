@@ -1,6 +1,8 @@
 [
   {
+    "remote": "TeamBliss-Devices",
     "repository": "android_device_lge_z2-common",
     "target_path": "device/lge/z2-common"
+    "revision": "cm-12.0"
   }
 ]
